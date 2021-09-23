@@ -1,6 +1,6 @@
 # IMPORTANT!!!
 
-Below is a list of some potential features to add to Ravenous:
+Below is a list of some potential features to add to Ravenous
 
 Make addresses clickable and have them open the address in Google Maps in a new tab
 Make images clickable and have them open the business’ website in a new tab
